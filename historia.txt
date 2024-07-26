@@ -12,3 +12,4 @@ le temo a las culebras, sapos etc
 
 
 mido 1.70 
+peso 90 kg
